@@ -1,0 +1,13 @@
+body {
+  background-image: url("../img/lake-tahoe.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
